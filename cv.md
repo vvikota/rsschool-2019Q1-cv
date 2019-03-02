@@ -1,5 +1,3 @@
-##### CV
-
 # Victor Rymsha
 
 ### Сontacts:
@@ -19,3 +17,32 @@
 
 ### Professional Experience
 ##### Freelance, 03.2018 – now
+
+
+## Projects
+
+#### Game(2018)
+[Project Link][game]
+Position: developer, designer
+Environment: HTML, CSS, JavaScript, jQuery, webpack
+
+#### Youtube client (2018)
+[Project Link][youtube]
+Position: developer
+Environment: HTML, CSS, JavaScript
+
+#### Website markup (2018)
+[Project Link][website]
+Position: developer
+Environment: HTML, CSS, JavaScript
+
+## Education
+HTML academy (https://htmlacademy.ru/), 2018 
+The Rolling Scopes School (https://school.rollingscopes.com/), 09.2018 – 02.2019
+
+
+
+
+[game]: <https://nicklevkovich.github.io/task-game>
+[youtube]: <http://youtube-task.surge.sh/>
+[website]: <http://tense-dime.surge.sh/>
