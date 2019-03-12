@@ -16,20 +16,24 @@ body{
   font-family: 'roboto';
   max-width: 1024px;
   margin: 0 auto;
-  padding: 40px 40px;
+  padding: 40px 40px 55px 140px;
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
 }
 
 header{
-  display: flex;
+  padding-left: 20px;
+  padding-bottom: 40px;
 }
 
 .photo{
-  width: 20%;
+  display: inline-block;
+  width: 150px;
 }
 
 .contact{
-  width: 70%;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 80px; 
 }
 
 /* add fonts */
