@@ -6,7 +6,18 @@ ul{
 body{
   max-width: 1024px;
   margin: 0 auto;
-  padding: 0 40px;
+  padding: 40px 40px;
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
 }
 
+header{
+  display: flex;
+}
+
+.photo{
+  width: 200px;
+}
+
+.contact{
+  width: 500px;
+}
